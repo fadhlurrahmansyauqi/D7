@@ -1,6 +1,5 @@
-/* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  .lesson {
+  .Menu {
     width: 50%;
     margin-bottom: 50px;
   }
@@ -14,9 +13,8 @@
   }
 }
 
-/* Untuk Smartphone */
 @media all and (max-width: 670px) {
-  .lesson {
+  .Menu {
     width: 100%;
   }
   
@@ -28,7 +26,7 @@
     width: 100%;
   }
   
-  .facebook {
+  .Main-course {
     margin-bottom: 10px;
   }
   
@@ -36,12 +34,11 @@
     text-align: left;
   }
   
-  /* Tambahkan CSS untuk header-right */
   .header-right{
     display:none;
   }
   
-  /* Tambahkan CSS untuk menu-icon */
+  
   .menu-icon{
     display:block;
   }
