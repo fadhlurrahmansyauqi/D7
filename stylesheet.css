@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://images.app.goo.gl/c8w6eHp8p8Np1YZw7);
   background-size: cover;
   color: white;
   text-align: center;
@@ -51,16 +51,16 @@ a {
   margin: 10px 0;
 }
 
-.signup {
+.Appetizer {
   background-color: #239b76;
 }
 
-.facebook {
+.Main Course {
   background-color: #3b5998;
   margin-right: 10px;
 }
 
-.twitter {
+.Dessert {
   background-color: #55acee;
 }
 
@@ -117,7 +117,7 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* Tambahkan CSS untuk menu-icon */
+
 .menu-icon{
   color:white;
   float:right;
@@ -127,7 +127,7 @@ header {
 }
 
 
-.lesson-wrapper {
+.low-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -145,16 +145,16 @@ header {
   font-weight: normal;
 }
 
-.lesson {
+.Menu {
   float: left;
   width: 25%;
 }
 
-.lesson-icon {
+.Menu-icon {
   position: relative;
 }
 
-.lesson-icon p {
+.Menu-icon p {
   position: absolute;
   top: 44%;
   width: 100%;
