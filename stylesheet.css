@@ -192,8 +192,9 @@ header {
   box-shadow: none;
 }
 
-footer img {
+footer {
   width: 125px;
+  color: black;
 }
 
 footer p {
